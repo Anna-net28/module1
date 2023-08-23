@@ -9,3 +9,6 @@ git config --global init.defaultBranch main
 git init # инициализация репозитория
 git add . № добавить все файлы в track
 git commit -m "описание" # сделать комит
+git status
+git diff
+git diff --color-words
